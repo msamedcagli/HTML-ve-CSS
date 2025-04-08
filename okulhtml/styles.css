@@ -1,0 +1,20 @@
+div+p {
+    color: blueviolet;
+}
+
+h2[title="başlik1"] {
+    color: aqua;
+}
+
+p[title="paragraf1"] {
+    color: blueviolet;
+    text-align: justify;
+}
+
+a[target="_blank"] {
+    color: deeppink;
+}
+
+input[type="text"] {
+    background-color: chartreuse;
+}
